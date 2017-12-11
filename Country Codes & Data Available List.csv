@@ -1,0 +1,342 @@
+country_name,dhs,who,fips,census_fips,iso_2,iso_3,unicef,unstat,census_years,who_years
+Accelerator Behavior countries,,,,AB,ABC,,,,,
+Afghanistan,AF,3010,AF,AF,AF,AFG,AFG,AFG,(1979-2017),(2000-2015)
+Akrotiri,,,AX,,,,,,,
+Albania,AL,4005,AL,AL,AL,ALB,ALB,ALB,(1989-2017),(2000-2015)
+Algeria,,1010,AG,AG,DZA,DZA,,,(1987-2017),(2000-2015)
+American Samoa,,,AQ,AQ,ASM,,,,(2000-2017),
+Andorra,,4008,AN,AN,AND,AND,,,(1990-2017),(2000-2015)
+Angola,AO,1020,AO,AO,AO,AGO,ANG,AGO,(1970-2017),(2000-2015)
+Anguilla,,,AV,AV,AIA,,,,(1984-2017),
+Antarctica,,,AY,,,,,,,
+Antigua and Barbuda,,2010,AC,AC,ATG,ATG,,,(1991-2017),(2000-2015)
+Argentina,,2020,AR,AR,ARG,ARG,,,(1980-2017),(2000-2015)
+Armenia,AM,4007,AM,AM,AM,ARM,ARM,ARM,(1989-2017),(2000-2015)
+Aruba,,,AA,AA,ARB,,,,(1981-2017),
+Ashmore and Cartier Islands,,,AT,,,,,,,
+Asia (ex-near East),,,,AS,ASI,,,,,
+Australia,,5020,AS,AS,AUS,AUS,,,(1986-2017),(2000-2015)
+Austria,,4010,AU,AU,AUT,AUT,,,(1991-2017),(2000-2015)
+Azerbaijan,AZ,4012,AJ,AJ,AZ,AZE,AZE,AZE,(1989-2017),(2000-2015)
+Bahamas,,2030,,BF,BHS,BHS,,,(1980-2017),(2000-2015)
+Bahamas, The,,,BF,,,,,,
+Bahrain,,3020,BA,BA,BHR,BHR,,,(1981-2017),(2000-2015)
+Baker Island,,,FQ,,,,,,,
+Bangladesh,BD,3025,BG,BG,BD,BGD,BAN,BGD,(1981-2017),(2000-2015)
+Barbados,,2040,BB,BB,BRB,BRB,,,(1980-2017),(2000-2015)
+Belarus,,4018,BO,BO,BLR,BLR,,,(1989-2017),(2000-2015)
+Belgium,,4020,BE,BE,,BEL,,,(1991-2017),(2000-2015)
+Belize,,2045,BH,BH,BLZ,BLZ,,,(1980-2017),(2000-2015)
+Benin,BJ,1025,BN,BN,BJ,BEN,BEN,BEN,(1979-2017),(2000-2015)
+Bermuda,,,BD,BD,BMU,,,,(1991-2017),
+Bhutan,,3027,BT,BT,BTN,BTN,,,(1970-2017),(2000-2015)
+Bolivia,BO,BO,BL,BL,BO,BOL,BOL,BOL,(1992-2017),
+Bolivia (Plurinational State of),,,,,,,,,,(2000-2015)
+Bosnia Herzegovina,,,,BA,BIH,,,,,
+Bosnia and Herzegovina,,4025,BK,BK,,BIH,,,(1991-2017),(2000-2015)
+Botswana,BT,1030,BC,BC,BW,BWA,BTW,BWA,(1981-2017),(2000-2015)
+Bouvet Island,,,BV,,,,,,,
+Brazil,BR,2070,BR,BR,BR,BRA,BRZ,BRA,(1970-2017),(2000-2015)
+British Indian Ocean Territories,,,,IO,IOT,,,,,
+British Indian Ocean Territory,,,IO,,,,,,,
+British Virgin Islands,,,VI,VG,VGB,,,,,
+Brunei,,,BX,BX,,,,,(1981-2017),
+Brunei Darussalam,,3030,,BN,BRN,BRN,,,(2000-2015),
+Bulgaria,,4030,BU,BU,BGR,BGR,,,(1993-2017),(2000-2015)
+Burkina Faso,BF,1035,UV,UV,BF,BFA,UPV,BFA,(1976-2017),(2000-2015)
+Burma,MM,,BM,BM,MMR,,,,(1973-2017),
+Burundi,BU,1040,BY,BY,BI,BDI,BRD,BDI,(1979-2017),(2000-2015)
+Cabo Verde,,1060,,CV,,CPV,,,(1980-2017),(2000-2015)
+Cambodia,KH,3050,CB,CB,KH,KHM,KMP,KHM,(1970-2017),(2000-2015)
+Cameroon,CM,1045,CM,CM,CM,CMR,CAM,CMR,(1976-2017),(2000-2015)
+Canada,,2090,CA,CA,CAN,CAN,,,(1991-2017),(2000-2015)
+Cape Verde,CV,CV,CV,,CV,CPV,CVR,CPV,,
+Cayman Islands,,,CJ,CJ,CYM,,,,(1989-2017),
+Central African Republic,CF,1070,CT,CT,CF,CAF,CAR,CAF,(1975-2017),(2000-2015)
+Chad,TD,1080,CD,CD,TD,TCD,CHD,TCD,(1970-2017),(2000-2015)
+Chile,,2120,CI,CI,CHL,CHL,,,(1982-2017),(2000-2015)
+China,,3068,CH,CH,CHN,CHN,,,(1990-2017),(2000-2015)
+China, Hong Kong Special Administrative Region,,,,HK,HKG,,,,
+China, Macao Special Administrative Region,,,,MO,MAC,,,,
+Christmas Island,,,KT,,,,,,,
+Christmas Islands,,,,CX,CXR,,,,,
+Clipperton Island,,,IP,,,,,,,
+Cocos (Keeling) Islands,,,CK,,,,,,,
+Cocos Islands,,,,CC,CCK,,,,,
+Colombia,CO,2130,CO,CO,CO,COL,COL,COL,(1973-2017),(2000-2015)
+Comoros,KM,1090,CN,CN,KM,COM,COM,COM,(1980-2017),(2000-2015)
+Congo,CG,1100,CF,,CG,COG,CBR,COG,(2000-2015),
+Congo (Brazzaville),,,CF,CF,,,,,(1974-2017),
+Congo (Kinshasa),,,CG,CG,,,,,(1974-2017),
+Congo Democratic Republic,CD,CD,CG,,CD,COD,COD,COD,,
+Cook Islands,,5060,CW,CW,COK,COK,,,(1991-2017),(2000-2015)
+Coral Sea Islands,,,CR,,,,,,,
+Costa Rica,,2140,CS,CS,CRI,CRI,,,(1984-2017),(2000-2015)
+Cote d'Ivoire,CI,CI,,IV,CI,CIV,IVC,CIV,(1975-2017),
+Croatia,,4038,HR,HR,HRV,HRV,,,(1991-2017),(2000-2015)
+Cuba,,2150,CU,CU,CUB,CUB,,,(1981-2017),(2000-2015)
+Curacao,,,,UC,,,,,(1992-2017),
+Curaçao,,,UC,,,,,,,
+Cyprus,,3080,CY,CY,CYP,CYP,,,(1982-2017),(2000-2015)
+Czech Republic,,4045,EZ,CZ,CZE,CZE,,,(2000-2015),
+Czechia,,,,EZ,,,,,(1991-2017),
+Czechoslovakia,,,,CS,CSK,,,,,
+Côte d'Ivoire,,,IV,,,,,,,
+C�te d'Ivoire,,,,,,,,,,(2000-2015)
+Democratic People's Republic of Korea,,3083,,KP,PRK,PRK,,,(2000-2015),
+Democratic Republic of the Congo,CD,1555,,CD,COD,COD,,,(2000-2015),
+Denmark,,4050,DK,DK,DNK,DNK,,,(2000-2015),
+Dhekelia,,,DX,,,,,,,
+Djibouti,,1120,DJ,DJ,DJI,DJI,,,(1970-2017),(2000-2015)
+Dominica,,2160,DO,DO,DMA,DMA,,,(1981-2017),(2000-2015)
+Dominican Republic,DR,2170,DR,DR,DO,DOM,DMR,DOM,(1980-2017),(2000-2015)
+EU-27,,,,EU,EU2,,,,,
+Ecuador,EC,2180,EC,EC,EC,ECU,ECU,ECU,(1990-2017),(2000-2015)
+Egypt,EG,1125,EG,EG,EG,EGY,EGY,EGY,(1996-2017),(2000-2015)
+El Salvador,ES,2190,ES,ES,SV,SLV,ESL,SLV,(1992-2017),(2000-2015)
+Equatorial Guinea,EK,1130,EK,EK,GQ,GNQ,EQG,GNQ,(1983-2017),(2000-2015)
+Eritrea,ER,1135,ER,ER,ER,ERI,ETHB,ERI,(1980-2017),(2000-2015)
+Estonia,,4055,EN,EN,EST,EST,,,(1989-2017),(2000-2015)
+Ethiopia,ET,1140,ET,ET,ET,ETH,ETH,ETH,(1980-2017),(2000-2015)
+Etorofu, Habomai, Kunashiri, and Shikotan Islands,,,PJ,,,,
+Faeroe Islands,,,,FO,FRO,,,,,
+Falkland Islands (Islas Malvinas),,,FK,,,,,,,
+Falkland Islands (Malvinas),,,,FK,FLK,,,,,
+Faroe Islands,,,FO,FO,,,,,(1994-2017),
+Federated State of Micronesia,,,,FM,FSM,,,,,
+Fiji,,5070,FJ,FJ,FJI,FJI,,,(1986-2017),(2000-2015)
+Finland,,4070,FI,FI,FIN,FIN,,,(1991-2017),(2000-2015)
+Former Democratic Republic of Germany,,,,DD,DDR,,,,,
+Former Democratic Republic of Vietnam,,,,VD,VDR,,,,,
+Former Democratic Yemen,,,,YD,YMD,,,,,
+Former Pacific Islands,,,,PC,PCI,,,,,
+Former Panama-Canal-Zone,,,,PZ,PCZ,,,,,
+Former USSR,,,,SU,SUN,,,,,
+Former Yugoslavia,,,,YU,YUG,,,,,
+France,,4080,FR,FR,,FRA,,,(1990-2017),(2000-2015)
+France, Monaco,,,,FR,FRA,,,,
+French Guiana,,,FG,GF,GUF,,,,,
+French Polynesia,,,FP,FP,PYF,,,,(1983-2017),
+French South Antarctic Territories,,,,FQ,ATF,,,,,
+French Southern and Antarctic Lands,,,FS,,,,,,,
+French Southern and Antarctic Lands Bassas da India,,,BS,,,,,,,
+French Southern and Antarctic Lands Europa Island,,,EU,,,,,,,
+French Southern and Antarctic Lands Glorioso Islands,,,GO,,,,,,,
+French Southern and Antarctic Lands Juan de Nova Island,,,JU,,,,,,,
+French Southern and Antarctic Lands Tromelin Island,,,TE,,,,,,,
+Gabon,GA,1160,GB,GB,GA,GAB,GAB,GAB,(1970-2017),(2000-2015)
+Gambia,GM,1170,GA,GA,GM,GMB,GAM,GMB,(1983-2017),(2000-2015)
+Gaza Strip,,,GZ,GZ,,,,,(1997-2017),
+Georgia,GE,4084,GG,GG,GE,GEO,GEO,GEO,(1989-2017),(2000-2015)
+Germany,,4085,GM,GM,,DEU,,,(1991-2017),(2000-2015)
+Ghana,GH,1180,GH,GH,GH,GHA,GHA,GHA,(1970-2017),(2000-2015)
+Gibraltar,,,GI,GI,GIB,,,,(1982-2017),
+Greece,,4140,GR,GR,GRC,GRC,,,(1991-2017),(2000-2015)
+Greenland,,,GL,GL,GRL,,,,(1990-2017),
+Grenada,,2230,GJ,GJ,GRD,GRD,,,(1981-2017),(2000-2015)
+Guadeloupe,,,GP,GP,GLP,,,,,
+Guam,,,GQ,GQ,GUM,,,,(2000-2017),
+Guatemala,GU,2250,GT,GT,GT,GTM,GUA,GTM,(1981-2017),(2000-2015)
+Guernsey,,,GK,GK,,,,,(1991-2017),
+Guinea,GN,1190,GV,GV,GN,GIN,GUI,GIN,(1970-2017),(2000-2015)
+Guinea-Bissau,,1192,PU,PU,GNB,GNB,,,(1979-2017),(2000-2015)
+Guyana,GY,2260,GY,GY,GY,GUY,GUY,GUY,(1980-2017),(2000-2015)
+Haiti,HT,2270,HA,HA,HT,HTI,HTI,HTI,(1971-2017),(2000-2015)
+Heard Island and McDonald Islands,,,HM,,HMD,,,,,
+Holy See (Vatican City State),,,,VA,VAT,,,,,
+Honduras,HN,2280,HO,HO,HN,HND,HON,HND,(1974-2017),(2000-2015)
+Hong Kong,,,HK,HK,,,,,(1991-2017),
+Howland Island,,,HQ,,,,,,,
+Hungary,,4150,HU,HU,HUN,HUN,,,(1990-2017),(2000-2015)
+Iceland,,4160,IC,IC,ISL,ISL,,,(1994-2017),(2000-2015)
+Ile Bouvet ,,,,,BVT,,,,,
+India,IA,3100,IN,IN,IN,IND,IND,IND,(1991-2017),(2000-2015)
+Indonesia,ID,3110,ID,ID,ID,IDN,IDS,IDN,(1980-2017),(2000-2015)
+Iran,,,IR,IR,IRN,,,,(1986-2017),
+Iran (Islamic Republic of),,,,,,,,,,(2000-2015)
+Iraq,,3140,IZ,IZ,IRQ,IRQ,,,(1987-2017),(2000-2015)
+Ireland,,4170,EI,EI,IRL,IRL,,,(1996-2017),(2000-2015)
+Isle of Man,,,IM,IM,,,,,(1991-2017),
+Israel,,3150,IS,IS,ISR,ISR,,,(1983-2017),(2000-2015)
+Italy,,4180,IT,IT,ITA,ITA,,,(1991-2017),(2000-2015)
+Jamaica,JM,2290,JM,JM,JM,JAM,JAM,JAM,(1982-2017),(2000-2015)
+Jan Mayen,,,JN,,,,,,,
+Japan,,3160,JA,JA,JPN,JPN,,,(1990-2017),(2000-2015)
+Jarvis Island,,,DQ,,,,,,,
+Jersey,,,JE,JE,,,,,(1991-2017),
+Johnston Atoll,,,JQ,,,,,,,
+Jordan,JO,3170,JO,JO,JO,JOR,JDN,JOR,(1994-2017),(2000-2015)
+Kazakhstan,KK,4182,KZ,KZ,KZ,KAZ,KAZ,KAZ,(1989-2017),(2000-2015)
+Kenya,KE,1220,KE,KE,KE,KEN,KEN,KEN,(1979-2017),(2000-2015)
+Kingman Reef,,,KQ,,,,,,,
+Kiribati,,5105,KR,KR,KIR,KIR,,,(1985-2017),(2000-2015)
+Korea,,,,KN,,,,,(1993-2017),
+Korea, North,,,KN,,,,,,
+Korea, South,,,KS,,,,,,
+Kosovo,,,KV,KV,,,,,(1981-2017),
+Kuwait,,3190,KU,KU,KWT,KWT,,,(1985-2017),(2000-2015)
+Kyrgyz Republic,KY,KG,KG,,KG,KGZ,KIR,KGZ,,
+Kyrgyzstan,KY,4184,KG,KG,KGZ,KGZ,,,(1989-2017),(2000-2015)
+Lao People's Democratic Republic,LA,3200,LA,,LA,LAO,LAO,LAO,(2000-2015),
+Laos,,,LA,LA,,,,,(1995-2017),
+Latin America and Caribbean,,,,LA,LAC,,,,,
+Latvia,,4186,LG,LG,LVA,LVA,,,(1989-2017),(2000-2015)
+Lebanon,,3210,LE,LE,LBN,LBN,,,(1970-2017),(2000-2015)
+Lesotho,LS,1230,LT,LT,LS,LSO,LES,LSO,(1976-2017),(2000-2015)
+Liberia,LB,1240,LI,LI,LR,LBR,LBR,LBR,(1974-2017),(2000-2015)
+Libya,,1250,LY,LY,LBY,LBY,,,(1984-2017),(2000-2015)
+Liechtenstein,,,LS,LS,,,,,(1991-2017),
+Lithuania,,4188,LH,LH,LTU,LTU,,,(1989-2017),(2000-2015)
+Luxembourg,,4190,LU,LU,LUX,LUX,,,(1991-2017),(2000-2015)
+Macau,,,MC,MC,,,,,(1991-2017),
+Macedonia,,,MK,MK,,,,,(1994-2017),
+Madagascar,MD,1260,MA,MA,MG,MDG,MAD,MDG,(1975-2017),(2000-2015)
+Malawi,MW,1270,MI,MI,MW,MWI,MLW,MWI,(1977-2017),(2000-2015)
+Malaysia,,3236,MY,MY,MYS,MYS,,,(1980-2017),(2000-2015)
+Maldives,MV,3255,MV,MV,MV,MDV,MAL,MDV,(1985-2017),(2000-2015)
+Mali,ML,1280,ML,ML,ML,MLI,MLI,MLI,(1976-2017),(2000-2015)
+Malta,,4200,MT,MT,MLT,MLT,,,(1996-2017),(2000-2015)
+Marshall Islands,,5107,RM,RM,MHL,MHL,,,(1988-2017),(2000-2015)
+Martinique,,,MB,MQ,MTQ,,,,,
+Mauritania,MR,1290,MR,MR,MR,MRT,MTA,MRT,(1977-2017),(2000-2015)
+Mauritius,,1300,MP,MP,MUS,MUS,,,(1983-2017),(2000-2015)
+Mayotte,,,MF,YT,MYT,,,,,
+Mexico,MX,2310,MX,MX,MX,MEX,MEX,MEX,(1980-2017),(2000-2015)
+Micronesia,,,,FM,,,,,(1994-2017),
+Micronesia (Federated States of),,,,,,,,,,(2000-2015)
+Micronesia, Federated States of,,,FM,,,,,,
+Middle East,,,,ME,MDE,,,,,
+Midway Islands,,,MQ,,,,,,,
+Moldova,MB,MD,MD,MD,MD,MDA,MOL,MDA,(1989-2017),
+Monaco,,4205,MN,MN,,MCO,,,(1990-2017),(2000-2015)
+Mongolia,,3260,MG,MG,MNG,MNG,,,(1989-2017),(2000-2015)
+Montenegro,,4207,MJ[4],ME,MNE,MNE,,,(2000-2015),
+Montserrat,,,MH,MH,MSR,,,,(1991-2017),
+Morocco,MA,1310,MO,MO,MA,MAR,MOR,MAR,(1982-2017),(2000-2015)
+Mozambique,MZ,1320,MZ,MZ,MZ,MOZ,MOZ,MOZ,(1980-2017),(2000-2015)
+Myanmar,MM,3270,BM,,MM,MMR,BUR,MMR,,(2000-2015)
+Namibia,NM,1325,WA,WA,NA,NAM,NMB,NAM,(1980-2017),(2000-2015)
+Nauru,,5110,NR,NR,NRU,NRU,,,(1992-2017),(2000-2015)
+Navassa Island,,,BQ,,,,,,,
+Nepal,NP,3280,NP,NP,NP,NPL,NEP,NPL,(1971-2017),(2000-2015)
+Netherlands,,4210,NL,NL,NLD,NLD,,,(1995-2017),(2000-2015)
+New Caledonia,,,NC,NC,NCL,,,,(1983-2017),
+New Zealand,,5150,NZ,NZ,NZL,NZL,,,(1986-2017),(2000-2015)
+Nicaragua,NC,2340,NU,NU,NI,NIC,NIC,NIC,(1971-2017),(2000-2015)
+Niger,NI,1330,NG,NG,NE,NER,NIG,NER,(1977-2017),(2000-2015)
+Nigeria,NG,1340,NI,NI,NG,NGA,NGR,NGA,(1970-2017),(2000-2015)
+Niue,,5170,NE,NU,NIU,NIU,,,(2000-2015),
+Norfolk Island,,,NF,,,,,,,
+Norfolk Islands,,,,NF,NFK,,,,,
+Northern Mariana Islands,,,CQ,CQ,MNP,,,,(2000-2017),
+Norway,,4220,NO,NO,,NOR,,,(1991-2017),(2000-2015)
+Norway, Svalbard and Jan Mayen,,,,NO,NOR,,,,
+Occupied Palestinian Territory,,,,PS,PSE,,,,,
+Oman,,3285,MU,MU,OMN,OMN,,,(1993-2017),(2000-2015)
+Pakistan,PK,3290,PK,PK,PK,PAK,PAK,PAK,(1981-2017),(2000-2015)
+Palau,,5180,PS,PS,PLW,PLW,,,(1990-2017),(2000-2015)
+Palmyra Atoll,,,LQ,,,,,,,
+Panama,,2350,PM,PM,,PAN,,,(1980-2017),(2000-2015)
+Papua New Guinea,PG,5195,PP,PP,PG,PNG,PAP,PNG,(1980-2017),(2000-2015)
+Paracel Islands,,,PF,,,,,,,
+Paraguay,PY,2360,PA,PA,PY,PRY,PAR,PRY,(1972-2017),(2000-2015)
+Peru,PE,2370,PE,PE,PE,PER,PER,PER,(1981-2017),(2000-2015)
+Philippines,PH,3300,RP,RP,PH,PHL,PHI,PHL,(1980-2017),(2000-2015)
+Pitcairn,,,,PN,PCN,,,,,
+Pitcairn Islands,,,PC,,,,,,,
+Poland,,4230,PL,PL,POL,POL,,,(1989-2017),(2000-2015)
+Portugal,,4240,PO,PO,PRT,PRT,,,(1991-2017),(2000-2015)
+Puerto Rico,,,RQ,RQ,,,,,(2010-2017),
+Qatar,,3320,QA,QA,QAT,QAT,,,(1986-2017),(2000-2015)
+Republic of Korea,,3325,,KR,KOR,KOR,,,(2000-2015),
+Republic of Moldova,MB,4260,,MD,MDA,MDA,,,(2000-2015),
+Reunion,,,,RE,REU,,,,,
+Romania,RO,4270,RO,RO,RO,ROU,ROM,ROU,(1992-2017),(2000-2015)
+Russia,,,RS,RS,,,,,(1989-2017),
+Russian Federation,,4272,,RU,RUS,RUS,,,(2000-2015),
+Rwanda,RW,1370,RW,RW,RW,RWA,RWA,RWA,(1978-2017),(2000-2015)
+Réunion,,,RE,,,,,,,
+Saint Barthelemy,,,TB,TB,,,,,(1982-2017),
+Saint Helena,,,,SH,SHN,,,,(1987-2017),
+Saint Helena, Ascension, and Tristan da Cunha,,,SH,,,,,
+Saint Kitts and Nevis,,2385,SC,SC,,KNA,,,(1980-2017),(2000-2015)
+Saint Lucia,,2400,ST,ST,LCA,LCA,,,(1980-2017),(2000-2015)
+Saint Martin,,,RN,RN,,,,,(1982-2017),
+Saint Pierre and Miquelon,,,SB,SB,SPM,,,,(1982-2017),
+Saint Vincent and the Grenadines,,2420,VC,VC,VCT,VCT,,,(1991-2017),(2000-2015)
+Samoa,WS,5197,WS,WS,WS,WSM,WTS,WSM,(1981-2017),(2000-2015)
+San Marino,,4275,SM,SM,SMR,SMR,,,(1995-2017),(2000-2015)
+Sao Tome and Principe,ST,1385,TP,TP,ST,STP,STP,STP,(1981-2017),(2000-2015)
+Saudi Arabia,,3340,SA,SA,SAU,SAU,,,(1992-2017),(2000-2015)
+Senegal,SN,1390,SG,SG,SN,SEN,SEN,SEN,(1976-2017),(2000-2015)
+Serbia,,4273,RI,RI,SRB,SRB,,,(1981-2017),(2000-2015)
+Serbia and Montenegro,,,,CS,SCG,,,,,
+Seychelles,,1400,SE,SE,SYC,SYC,,,(1977-2017),(2000-2015)
+Sierra Leone,SL,1410,SL,SL,SL,SLE,SRL,SLE,(1974-2017),(2000-2015)
+Singapore,,3350,SN,SN,SGP,SGP,,,(1990-2017),(2000-2015)
+Sint Maarten,,,NN,NN,,,,,(1992-2017),
+Slovakia,,4274,LO,LO,SVK,SVK,,,(1991-2017),(2000-2015)
+Slovenia,,4276,SI,SI,SVN,SVN,,,(1991-2017),(2000-2015)
+Solomon Islands,,5198,BP,BP,SLB,SLB,,,(1976-2017),(2000-2015)
+Somalia,,1420,SO,SO,SOM,SOM,,,(1975-2017),(2000-2015)
+South Africa,ZA,1430,SF,SF,ZA,ZAF,SAF,ZAF,(1985-2017),(2000-2015)
+South Georgia and South Sandwich Islands,,,SX,,,,,,,
+South Georgia and the South Sandwich Islands,,,,,SGS,,,,,
+South Sudan,,1460,OD,OD,SDS,SSD,,,(2008-2017),(2000-2015)
+Spain,,4280,SP,SP,ESP,ESP,,,(1991-2017),(2000-2015)
+Spratly Islands,,,PG,,,,,,,
+Sri Lanka,LK,3365,CE,CE,LK,LKA,SRI,LKA,(1981-2017),(2000-2015)
+Sub-Saharan Africa,,,,AF,SSA,,,,,
+Sudan,SD,1465,SU,SU,SD,SDN,SUD,SDN,(2008-2017),(2000-2015)
+Suriname,,2430,NS,NS,SUR,SUR,,,(1980-2017),(2000-2015)
+Svalbard,,,SV,,,,,,,
+Swaziland,SZ,1480,WZ,WZ,SZ,SWZ,SZD,SWZ,(1976-2017),(2000-2015)
+Sweden,,4290,SW,SW,SWE,SWE,,,(1991-2017),(2000-2015)
+Switzerland,,4300,SZ,SZ,,CHE,,,(1990-2017),(2000-2015)
+Switzerland, Liechtenstein,,,,CH,CHE,,,,
+Syria,,,SY,SY,SYR,,,,(1981-2017),
+Syrian Arab Republic,,,,,,,,,,(2000-2015)
+Taiwan,,,TW,TW,,,,,(1990-2017),
+Tajikistan,TJ,4301,TI,TI,TJ,TJK,TAD,TJK,(1989-2017),(2000-2015)
+Tanzania,TZ,TZ,TZ,TZ,TZ,TZA,TNZ,TZA,(1978-2017),
+Thailand,TH,3380,TH,TH,TH,THA,THL,THA,(1990-2017),(2000-2015)
+The Former Yugoslav Republic of Macedonia,,,,MK,MKD,,,,,
+The former Yugoslav Republic of Macedonia,,,,,,,,,,(2000-2015)
+Timor-Leste,TL,3087,TT,TT,TL,TLS,ETM,TLS,(1990-2017),(2000-2015)
+Togo,TG,1510,TO,TO,TG,TGO,TGO,TGO,(1981-2017),(2000-2015)
+Tokelau,,,TL,TK,TKL,,,,,
+Tonga,,5200,TN,TN,TON,TON,,,(1986-2017),(2000-2015)
+Trinidad and Tobago,TT,2440,TD,TD,TT,TTO,TDT,TTO,(1980-2017),(2000-2015)
+Tunisia,TN,1520,TS,TS,TN,TUN,TUN,TUN,(1994-2017),(2000-2015)
+Turkey,TR,3400,TU,TU,TR,TUR,TUR,TUR,(1980-2017),(2000-2015)
+Turkmenistan,TM,4302,TX,TX,TM,TKM,TUK,TKM,(1989-2017),(2000-2015)
+Turks and Caicos Islands,,,TK,TK,TCA,,,,(1990-2017),
+Tuvalu,,5205,TV,TV,TUV,TUV,,,(1979-2017),(2000-2015)
+US Virgin Islands,,,,VI,VIR,,,,,
+Uganda,UG,1530,UG,UG,UG,UGA,UGD,UGA,(1970-2017),(2000-2015)
+Ukraine,UA,4303,UA,,UA,UKR,UKR,UKR,(2000-2015),
+United Arab Emirates,,3405,AE,AE,ARE,ARE,,,(1986-2017),(2000-2015)
+United Kingdom,,4308,UK,UK,GBR,GBR,,,(1991-2017),(2000-2015)
+United Republic of Tanzania,TZ,1546,,TZ,TZA,TZA,,,(2000-2015),
+United States,,,US,US,,,,,(1980-2017),
+United States Minor Outlying Islands,,,,UM,UMI,,,,,
+United States Virgin Islands,,,VQ,,,,,,,
+United States of America,,,,,,,,,,(2000-2015)
+Uruguay,,2460,UY,UY,URY,URY,,,(1984-2017),(2000-2015)
+Uzbekistan,UZ,4335,UZ,UZ,UZ,UZB,UZB,UZB,(1989-2017),(2000-2015)
+Vanuatu,,5207,NH,NH,VUT,VUT,,,(1999-2017),(2000-2015)
+Vatican City,,,VT,,,,,,,
+Venezuela,,,VE,VE,VEN,,,,(1990-2017),
+Venezuela (Bolivarian Republic of),,,,,,,,,,(2000-2015)
+Viet Nam,,,,,,,,,,(2000-2015)
+Vietnam,VN,VN,VN,,VN,VNM,SVN,VNM,,
+Virgin Islands,,,,VI,,,,,(1991-2017),
+Wake Island,,,WQ,,,,,,,
+Wallis and Futuna,,,WF,WF,,,,,(1996-2017),
+Wallis and Futuna Islands,,,,WF,WLF,,,,,
+West Bank,,,WE,WE,,,,,(1997-2017),
+Western Sahara,,,,EH,ESH,,,,,
+World,,,,WL,WLD,,,,,
+Yemen,YE,3420,YM,YM,YE,YEM,YMN,YEM,(1994-2017),(2000-2015)
+Zambia,ZM,1560,ZA,ZA,ZM,ZMB,ZAM,ZMB,(1980-2017),(2000-2015)
+Zimbabwe,ZW,1570,ZI,ZI,ZW,ZWE,ZIM,ZWE,(1982-2017),(2000-2015)
