@@ -1,6 +1,6 @@
  # International Data 4 Development
 
-This folder contains international data pulled from public api's and other data sources to help decision makers make better informed decisions in assisting developing countries.
+This folder contains international data pulled from public api's and other data sources to help decision makers make informed decisions in assisting countries in development.
 
 For further assistance in accessing data for international development, please contact us: </br>
 info@sonjara.com </br>
